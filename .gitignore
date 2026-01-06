@@ -9,3 +9,16 @@ wheels/
 # Virtual environments
 .venv
 node_modules
+
+# Environment variables
+.env
+.env.*
+
+# Local data and logs
+.data/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
